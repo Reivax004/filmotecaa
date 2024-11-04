@@ -1,3 +1,17 @@
+.menu{
+    background-color:darkblue ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 5%;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
 body{
     background-color: darkblue;
     color: white;
